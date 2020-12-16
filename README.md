@@ -5,8 +5,6 @@ A curated list of Federated Learning papers/resources and recent advancements in
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Gitter](https://badges.gitter.im/Multi-label/community.svg)](https://gitter.im/Multi-label/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-<p align="center">
   <img width="750" src="./images/fl.png">
 </p>
 
@@ -30,3 +28,13 @@ A curated list of Federated Learning papers/resources and recent advancements in
 - **The future of digital health with federated learning**
   - Nicola Rieke
   - [[Paper]](https://www.nature.com/articles/s41746-020-00323-1)
+  
+- **Federated Learning on Clinical Benchmark Data: Performance Assessment**
+  - Geun Hyeong Lee and Soo-Yong Shin
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7652692/)
+  
+- **Secure and Robust Machine Learning for Health Care**
+  - Adnan Qayyum, Junaid Qadir, Muhammad Bilal, Ala Al-Fuqaha
+  - [[Paper]](https://arxiv.org/abs/2001.08103)
+
+

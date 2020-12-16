@@ -1,6 +1,7 @@
 # Heathcare-Federated-Learning
 
-A curated list of Federated Learning papers/resources and recent advancements in Healthcare.
+Federated learning, a mechanism of training a shared global model with a central server while keeping all the sensitive data in local institutions where the data belong, provides great promise to connect the fragmented healthcare data sources with privacy-preservation. This repo contains a curated list of Federated Learning papers/resources and recent advancements in Healthcare.
+
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)

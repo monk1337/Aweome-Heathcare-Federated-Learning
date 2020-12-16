@@ -40,4 +40,12 @@ Federated learning, a mechanism of training a shared global model with a central
 
 
 
+
+
+
+## Datasets
+
+- **Federated Learning framework to preserve privacy**
+  - [[Code]](https://github.com/ivishalanand/Federated-Learning-on-Hospital-Data)
+
 [[Image source]](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/)

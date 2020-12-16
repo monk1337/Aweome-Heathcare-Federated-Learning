@@ -1,4 +1,4 @@
-# Heathcare-Federated-Learning
+# Awesome Heathcare Federated Learning
 
 Federated learning, a mechanism of training a shared global model with a central server while keeping all the sensitive data in local institutions where the data belong, provides great promise to connect the fragmented healthcare data sources with privacy-preservation. This repo contains a curated list of Federated Learning papers/resources and recent advancements in Healthcare.
 

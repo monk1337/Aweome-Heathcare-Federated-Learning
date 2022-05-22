@@ -29,6 +29,10 @@ Federated learning, a mechanism of training a shared global model with a central
 - **The future of digital health with federated learning**
   - Nicola Rieke
   - [[Paper]](https://www.nature.com/articles/s41746-020-00323-1)
+
+- **Federated Learning for Healthcare Domain - Pipeline, Applications and Challenges**
+  - Madhura Joshi , Ankit Pal , Malaikannan Sankarasubbu
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3533708)
   
 - **Federated Learning on Clinical Benchmark Data: Performance Assessment**
   - Geun Hyeong Lee and Soo-Yong Shin

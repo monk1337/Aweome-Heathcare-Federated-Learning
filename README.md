@@ -1010,6 +1010,10 @@ Federated learning, a mechanism of training a shared global model with a central
 
 - **Federated Learning for Internet of Things: Recent Advances, Taxonomy, and Open Challenges** 
   - [[Paper]](https://arxiv.org/pdf/2009.13012.pdf) 
+  
+- **VANTAGE6: an open source priVAcy preserviNg federaTed leArninG infrastructurE for Secure Insight eXchange**
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075508/)
+  
 
 
 

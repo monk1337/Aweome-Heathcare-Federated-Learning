@@ -1013,6 +1013,12 @@ Federated learning, a mechanism of training a shared global model with a central
   
 - **VANTAGE6: an open source priVAcy preserviNg federaTed leArninG infrastructurE for Secure Insight eXchange**
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075508/)
+
+- **One Model to Unite Them All: Personalized Federated Learning of Multi-Contrast MRI Synthesis**
+  - [[Paper]](https://arxiv.org/abs/2207.06509) - [[Code]](https://github.com/icon-lab/pFLSynth)
+
+- **Federated Learning of Generative Image Priors for MRI Reconstruction**
+  - [[Paper]](https://arxiv.org/abs/2202.04175) - [[Code]](https://github.com/icon-lab/FedGIMP)
   
 
 

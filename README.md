@@ -19,6 +19,29 @@ Federated learning, a mechanism of training a shared global model with a central
 5. [Researchers](#Researchers)
 
 
+## Code
+
+- **Tensorflow Federated** 
+  - [[Code]](https://github.com/tensorflow/federated)
+  
+- **An Industrial Grade Federated Learning Framework**
+  - [[Code]](https://github.com/FederatedAI/FATE)
+  
+- **Flower - A Friendly Federated Learning Framework**
+  - [[Code]](https://github.com/adap/flower)
+  
+- **Data science on data without acquiring a copy**
+  - [[Code]](https://github.com/OpenMined/PySyft)
+ 
+  
+## Tutorials
+
+- **Federated Learning on Mobile**
+  - [[Course]](https://courses.openmined.org/courses/federated-learning-on-mobile)
+  
+- **Federated Learning with Google**
+  - [[Course]](https://federated.withgoogle.com/)
+
 
 ## Papers
 

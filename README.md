@@ -10,6 +10,20 @@ Federated learning, a mechanism of training a shared global model with a central
 </p>
 
 
+# Contribute
+
+We welcome contributions to this list! In fact, that's the main reason why I created it - to encourage contributions and encourage people to subscribe to changes in order to stay informed about new and exciting developments in the world of Heathcare Federated Learning.
+
+Need help in
+
+- Classify the paper into appropriate categories such as [ Survey, Experiment, New Algorithm etc]
+- Sort the paper based on publication year
+- Add new papers to update the list
+
+Thank you for your interest in contributing to this project!
+
+
+
 ##### Table of Contents
 
 1. [Papers](#FL-papers)  

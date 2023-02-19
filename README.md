@@ -45,6 +45,8 @@ Federated learning, a mechanism of training a shared global model with a central
 
 ## Papers
 
+### Survey
+
 - **Federated learning for healthcare informatics**
   - Jie Xu, Benjamin S. Glicksberg, Chang Su, Peter Walker, Jiang Bian, Fei Wang
   - [[Paper]](https://arxiv.org/abs/1911.06270)
@@ -57,15 +59,8 @@ Federated learning, a mechanism of training a shared global model with a central
   - Madhura Joshi , Ankit Pal , Malaikannan Sankarasubbu
   - [[Paper]](https://dl.acm.org/doi/10.1145/3533708)
   
-- **Federated Learning on Clinical Benchmark Data: Performance Assessment**
-  - Geun Hyeong Lee and Soo-Yong Shin
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7652692/)
   
-- **Secure and Robust Machine Learning for Health Care**
-  - Adnan Qayyum, Junaid Qadir, Muhammad Bilal, Ala Al-Fuqaha
-  - [[Paper]](https://arxiv.org/abs/2001.08103)
-  
-- **Federated Learning for Healthcare Informatics1** 
+ - **Federated Learning for Healthcare Informatics1** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7659898/) 
 
 - **AI in Health: State of the Art, Challenges, and Future Directions** 
@@ -76,18 +71,65 @@ Federated learning, a mechanism of training a shared global model with a central
 
 - **Systematic Review of Privacy-Preserving Distributed Machine Learning From Federated Databases in Health Care** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7113079/) 
+  
+- **Open-Source Federated Learning Frameworks for IoT: A Comparative Review and Analysis** 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7794892/) 
+  
+ 
+ ### Covid-19
+ 
+ - **Federated Learning of Electronic Health Records Improves Mortality Prediction in Patients Hospitalized with COVID-19** 
+  - [[Paper]](https://www.medrxiv.org/content/10.1101/2020.08.11.20172809v1.full-text) 
+  
+ - **Federated semi-supervised learning for COVID region segmentation in chest CT using multi-national data from China, Italy, Japan** 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7864789/)
+  
+  
+    
+- **Collaborative Federated Learning For Healthcare: Multi-Modal COVID-19 Diagnosis at the Edge** 
+  - [[Paper]](https://arxiv.org/pdf/2101.07511.pdf)
+  
+  
+- **The value of federated learning during and post-COVID-19** 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7928850/)
+  
+- **SCOR: A secure international informatics infrastructure to investigate COVID-19** 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7454652/) 
+  
+- **Real-Time Electronic Health Record Mortality Prediction During the COVID-19 Pandemic: A Prospective Cohort Study** 
+  - [[Paper]](https://www.medrxiv.org/content/10.1101/2021.01.14.21249793v1.full-text)
 
+- **COVID-19 IMAGING DATA PRIVACY BY FEDERATED LEARNING DESIGN: A THEORETICAL FRAMEWORK** 
+  - [[Paper]](https://arxiv.org/pdf/2010.06177.pdf)
+
+- **Artificial intelligence in COVID-19 drug repurposing** 
+  - [[Paper]](https://www.thelancet.com/pdfs/journals/landig/PIIS2589-7500(20)30192-8.pdf) 
+
+- **Blockchain-Federated-Learning and Deep Learning Models for COVID-19 detection using CT Imaging** 
+  - [[Paper]](https://arxiv.org/pdf/2007.06537.pdf) 
+
+- **Experiments of Federated Learning for COVID-19 Chest X-ray Images** 
+  - [[Paper]](https://arxiv.org/pdf/2007.05592.pdf) 
+  
+ 
+ 
+### Experiments
+  
+- **Federated Learning on Clinical Benchmark Data: Performance Assessment**
+  - Geun Hyeong Lee and Soo-Yong Shin
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7652692/)
+  
+- **Secure and Robust Machine Learning for Health Care**
+  - Adnan Qayyum, Junaid Qadir, Muhammad Bilal, Ala Al-Fuqaha
+  - [[Paper]](https://arxiv.org/abs/2001.08103)
+  
 - **Privacy-first health research with federated learning** 
   - [[Paper]](https://www.medrxiv.org/content/10.1101/2020.12.22.20245407v1.full-text) 
 
-- **Federated Learning of Electronic Health Records Improves Mortality Prediction in Patients Hospitalized with COVID-19** 
-  - [[Paper]](https://www.medrxiv.org/content/10.1101/2020.08.11.20172809v1.full-text) 
 
 - **Patch-Based Surface Morphometry Feature Selection with Federated Group Lasso Regression** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7694696/) 
 
-- **Federated semi-supervised learning for COVID region segmentation in chest CT using multi-national data from China, Italy, Japan** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7864789/) 
 
 - **Predicting Adverse Drug Reactions on Distributed Health Data using Federated Learning** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7153050/) 
@@ -100,9 +142,6 @@ Federated learning, a mechanism of training a shared global model with a central
 
 - **Using federated data sources and Varian Learning Portal framework to train a neural network model for automatic organ segmentation** 
   - [[Paper]](https://www.physicamedica.com/article/S1120-1797(20)30065-X/fulltext) 
-
-- **Open-Source Federated Learning Frameworks for IoT: A Comparative Review and Analysis** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7794892/) 
 
 - **Federated Reinforcement Learning for Training Control Policies on Multiple IoT Devices** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7085801/) 
@@ -131,8 +170,6 @@ Federated learning, a mechanism of training a shared global model with a central
 - **A Decentralized Privacy-Preserving Healthcare Blockchain for IoT** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6359727/) 
 
-- **Real-Time Electronic Health Record Mortality Prediction During the COVID-19 Pandemic: A Prospective Cohort Study** 
-  - [[Paper]](https://www.medrxiv.org/content/10.1101/2021.01.14.21249793v1.full-text) 
 
 - **Joint Imaging Platform for Federated Clinical Data Analytics** 
   - [[Paper]](https://ascopubs.org/doi/10.1200/CCI.20.00045?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&) 
@@ -145,9 +182,6 @@ Federated learning, a mechanism of training a shared global model with a central
 
 - **Large-Scale Water Quality Prediction Using Federated Sensing and Learning: A Case Study with Real-World Sensing Big-Data** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7923429/) 
-
-- **Federated Learning of Electronic Health Records to Improve Mortality Prediction in Hospitalized Patients With COVID-19: Machine Learning Approach** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7842859/) 
 
 - **Multi-site fMRI analysis using privacy-preserving federated learning and domain adaptation: ABIDE results** 
   - [[Paper]](https://reader.elsevier.com/reader/sd/pii/S1361841520301298?token=49EC74DDB6FB2CAE2701353194B68C2D3ED8687C6D0C7674CCAFE61148A2E304204AF7863116946239671695D825D2C4) 
@@ -428,9 +462,6 @@ Federated learning, a mechanism of training a shared global model with a central
 - **Patient clustering improves efficiency of federated machine learning to predict mortality and hospital stay time using distributed electronic medical records** 
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1532046419302102?via%3Dihub) 
 
-- **SCOR: A secure international informatics infrastructure to investigate COVID-19** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7454652/) 
-
 - **Robust and Communication-Efficient Federated Learning From Non-i.i.d. Data** 
   - [[Paper]](https://sci-hub.mksa.top/10.1109/tnnls.2019.2944481) 
 
@@ -505,10 +536,7 @@ Federated learning, a mechanism of training a shared global model with a central
 
 - **Privacy-preserving architecture for providing feedback to clinicians on their clinical performance** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7310252/) 
-
-- **The value of federated learning during and post-COVID-19** 
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7928850/) 
-
+ 
 - **FedMed: A Federated Learning Framework for Language Modeling** 
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7412048/) 
 
@@ -686,8 +714,6 @@ Federated learning, a mechanism of training a shared global model with a central
 - **Federated Intrusion Detection for IoT with Heterogeneous Cohort Privacy** 
   - [[Paper]](https://arxiv.org/pdf/2101.09878.pdf) 
 
-- **Collaborative Federated Learning For Healthcare: Multi-Modal COVID-19 Diagnosis at the Edge** 
-  - [[Paper]](https://arxiv.org/pdf/2101.07511.pdf) 
 
 - **Reducing bias and increasing utility by federated generative modeling of medical images using a centralized adversary** 
   - [[Paper]](https://arxiv.org/pdf/2101.07235.pdf) 
@@ -715,9 +741,6 @@ Federated learning, a mechanism of training a shared global model with a central
 
 - **Confederated learning in healthcare: training machine learning models using disconnected data separated by individual, data type and identity for Large-Scale Health System Intelligence** 
   - [[Paper]](https://arxiv.org/pdf/1910.02109.pdf) 
-
-- **COVID-19 IMAGING DATA PRIVACY BY FEDERATED LEARNING DESIGN: A THEORETICAL FRAMEWORK** 
-  - [[Paper]](https://arxiv.org/pdf/2010.06177.pdf) 
 
 - **Robust Aggregation for Adaptive Privacy Preserving Federated Learning in Healthcare** 
   - [[Paper]](https://arxiv.org/pdf/2009.08294.pdf) 
@@ -818,9 +841,6 @@ Federated learning, a mechanism of training a shared global model with a central
 - **Federated Learning in Distributed Medical Databases: Meta-Analysis of Large-Scale Subcortical Brain Data** 
   - [[Paper]](https://arxiv.org/pdf/1810.08553.pdf) 
 
-- **Federated Learning of Electronic Health Records Improves Mortality Prediction in Patients Hospitalized with COVID-19** 
-  - [[Paper]](https://www.medrxiv.org/content/medrxiv/early/2020/08/14/2020.08.11.20172809.full.pdf) 
-
 - **FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare** 
   - [[Paper]](https://arxiv.org/pdf/1907.09173.pdf) 
 
@@ -865,9 +885,7 @@ Federated learning, a mechanism of training a shared global model with a central
 
 - **Achieving Security and Privacy in Federated Learning Systems: Survey, Research Challenges and Future Directions** 
   - [[Paper]](https://arxiv.org/pdf/2012.06810.pdf) 
-
-- **Artificial intelligence in COVID-19 drug repurposing** 
-  - [[Paper]](https://www.thelancet.com/pdfs/journals/landig/PIIS2589-7500(20)30192-8.pdf) 
+  
 
 - **Understanding the nature of information seeking behavior in critical care: Implications for the design of health information technology** 
   - [[Paper]](https://tgk2.people.uic.edu/pubs/j7.pdf) 
@@ -921,10 +939,7 @@ Federated learning, a mechanism of training a shared global model with a central
   - [[Paper]](https://arxiv.org/pdf/2002.09096.pdf) 
 
 - **FedNER: Privacy-preserving Medical Named Entity Recognition with Federated Learning** 
-  - [[Paper]](https://arxiv.org/pdf/2003.09288.pdf) 
-
-- **Federated Learning of Electronic Health Records to Improve Mortality Prediction in Hospitalized Patients With COVID-19: Machine Learning Approach** 
-  - [[Paper]](https://medinform.jmir.org/2021/1/e24207/) 
+  - [[Paper]](https://arxiv.org/pdf/2003.09288.pdf)
 
 - **Modelling Audiological Preferences using Federated Learning** 
   - [[Paper]](https://dl.acm.org/doi/10.1145/3386392.3399560) 
@@ -942,10 +957,8 @@ Federated learning, a mechanism of training a shared global model with a central
   - [[Paper]](https://arxiv.org/pdf/2012.07450.pdf) 
 
 - **A Federated Learning Framework for Privacy-preserving and Parallel Training** 
-  - [[Paper]](https://arxiv.org/pdf/2001.09782.pdf) 
-
-- **Collaborative Federated Learning For Healthcare: Multi-Modal COVID-19 Diagnosis at the Edge** 
-  - [[Paper]](https://arxiv.org/pdf/2101.07511.pdf) 
+  - [[Paper]](https://arxiv.org/pdf/2001.09782.pdf)
+  
 
 - **Attack Detection Using Federated Learning in Medical Cyber-Physical Systems** 
   - [[Paper]](http://faculty.washington.edu/geetha/Papers/fedlearningIDS.pdf) 
@@ -987,11 +1000,8 @@ Federated learning, a mechanism of training a shared global model with a central
   - [[Paper]](https://arxiv.org/pdf/1910.02109.pdf) 
 
 - **Towards a Keyword Extraction in Medical and Healthcare Education** 
-  - [[Paper]](https://annals-csis.org/proceedings/2017/drp/pdf/351.pdf) 
-
-- **SCOR: A secure international informatics infrastructure to investigate COVID-19** 
-  - [[Paper]](https://academic.oup.com/jamia/article/27/11/1721/5869802) 
-
+  - [[Paper]](https://annals-csis.org/proceedings/2017/drp/pdf/351.pdf)
+ 
 - **From the Data on Many, Precision Medicine for “One”: The Case for Widespread Genomic Data Sharing** 
   - [[Paper]](https://karger.com/Article/FullText/481682) 
 
@@ -1020,14 +1030,8 @@ Federated learning, a mechanism of training a shared global model with a central
   - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841520301298?via%3Dihub) 
 
 - **Federated learning in medicine: facilitating multi‑institutional collaborations without sharing patient data** 
-  - [[Paper]](https://www.nature.com/articles/s41598-020-69250-1.pdf) 
-
-- **Blockchain-Federated-Learning and Deep Learning Models for COVID-19 detection using CT Imaging** 
-  - [[Paper]](https://arxiv.org/pdf/2007.06537.pdf) 
-
-- **Experiments of Federated Learning for COVID-19 Chest X-ray Images** 
-  - [[Paper]](https://arxiv.org/pdf/2007.05592.pdf) 
-
+  - [[Paper]](https://www.nature.com/articles/s41598-020-69250-1.pdf)
+  
 - **Multi-Center Federated Learning** 
   - [[Paper]](https://arxiv.org/pdf/2005.01026.pdf) 
 

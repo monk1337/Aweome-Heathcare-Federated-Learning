@@ -61,6 +61,10 @@ Thank you for your interest in contributing to this project!
 
 ### Survey
 
+- **Landscape of machine learning evolution: privacy-preserving federated learning frameworks and tools**
+  - Giang Nguyen, Judith Sáinz-Pardo Díaz, Amanda Calatrava, Lisana Berberi, Oleksandr Lytvyn, Valentin Kozlov, Viet Tran, Germán Moltó. Álvaro López García 
+  - [[Paper]](https://link.springer.com/article/10.1007/s10462-024-11036-2)
+    
 - **Federated learning for healthcare informatics**
   - Jie Xu, Benjamin S. Glicksberg, Chang Su, Peter Walker, Jiang Bian, Fei Wang
   - [[Paper]](https://arxiv.org/abs/1911.06270)
@@ -128,7 +132,11 @@ Thank you for your interest in contributing to this project!
  
  
 ### Experiments
-  
+
+- **Study of the performance and scalability of federated learning for medical imaging with intermittent clients**
+  - Judith Sáinz-Pardo Díaz, Álvaro López García
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231222013844)
+    
 - **Federated Learning on Clinical Benchmark Data: Performance Assessment**
   - Geun Hyeong Lee and Soo-Yong Shin
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7652692/)
